@@ -50,3 +50,9 @@ See [platformio.ini](./platformio.ini) for pin assgnements.
 | - | 3 | 13 | - |
 | - | G | 12 | RELAY_MODULE_IN |
 | - | NC | NC | - |
+
+## Hardware Reference
+
+- [ESP32-C6 DevKit full docunmnetation](https://github.com/jwilleke/garage-car-positioning/blob/master/hardware/harware-details/ESP32-C6%20DevKit.md)
+- [LD2450](https://github.com/jwilleke/garage-car-positioning/tree/master/hardware/LD2450)
+- [NJK-5002C Hall Effect Sensor](https://github.com/jwilleke/garage-car-positioning/blob/master/hardware/NJK-5002C%20Hall%20Effect%20Sensor.md)
