@@ -741,6 +741,7 @@
                 "ELEGANTOTA_USE_ASYNC_WEBSERVER=1",
                 "ARDUINO_USB_MODE=1",
                 "ARDUINO_USB_CDC_ON_BOOT=1",
+                "OOR_CLOSED_SWITCH=4",
                 "LD2450_FRONT_RX=16",
                 "LD2450_FRONT_TX=17",
                 "LD2450_REAR_RX=18",
