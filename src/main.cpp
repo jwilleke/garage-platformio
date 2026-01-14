@@ -101,9 +101,8 @@ void setup() {
 // Main Loop
 // ============================================
 void loop() {
-    // Handle OTA
     ElegantOTA.loop();
-    
+
     // Maintain MQTT connection
     if (!mqtt.connected()) {
         reconnectMQTT();
